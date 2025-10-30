@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PA54F/Documents/Unreal Projects/gatchaMarket/Content/Input/IMC_Default.uasset",
+				"C:/Users/PA54F/Documents/Unreal Projects/gatchaMarket/Content/LevelPrototyping/Interactable/gatchapon1/Materials/transparent.uasset",
+				"C:/Users/PA54F/Documents/Unreal Projects/gatchaMarket/Content/LevelPrototyping/Interactable/gatchapon1/Materials/red.uasset",
+				"C:/Users/PA54F/Documents/Unreal Projects/gatchaMarket/Content/LevelPrototyping/Interactable/gatchapon1/Materials/Material_002.uasset",
+				"C:/Users/PA54F/Documents/Unreal Projects/gatchaMarket/Content/LevelPrototyping/Interactable/gatchapon1/Materials/Material_001.uasset",
+				"C:/Users/PA54F/Documents/Unreal Projects/gatchaMarket/Content/LevelPrototyping/Interactable/gatchapon1/Materials/glass.uasset",
+				"C:/Users/PA54F/Documents/Unreal Projects/gatchaMarket/Content/LevelPrototyping/Interactable/gatchapon1/StaticMeshes/gatchapon1.uasset",
+				"C:/Users/PA54F/Documents/Unreal Projects/gatchaMarket/Content/LevelPrototyping/Interactable/gatchapon1/BP_Gatchapon.uasset",
+				"C:/Users/PA54F/Documents/Unreal Projects/gatchaMarket/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
