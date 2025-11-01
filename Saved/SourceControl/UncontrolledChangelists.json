@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/moi/Documents/Unreal Projects/gatchaMarket/Content/Items/ST_Figurines.uasset",
+				"/Users/moi/Documents/Unreal Projects/gatchaMarket/Content/Items/DT_Figurines.uasset",
+				"/Users/moi/Documents/Unreal Projects/gatchaMarket/Content/Items/BP_FigurinesParent.uasset",
+				"/Users/moi/Documents/Unreal Projects/gatchaMarket/Content/Figurines/BP_FigurinesParent.uasset",
+				"/Users/moi/Documents/Unreal Projects/gatchaMarket/Content/Figurines/ST_Figurines.uasset",
+				"/Users/moi/Documents/Unreal Projects/gatchaMarket/Content/Figurines/DT_Figurines.uasset",
 				"C:/Users/nautr/Documents/Unreal Projects/gatchaMarket/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/nautr/Documents/Unreal Projects/gatchaMarket/Content/FirstPerson/Blueprints/Component/BPC_BuildingSystem.uasset",
 				"C:/Users/PA54F/Documents/Unreal Projects/gatchaMarket/Content/Input/IMC_Default.uasset",
